@@ -1,5 +1,5 @@
 # # Sales Data Analysis
-This dataset contains 9994 rows of sales data, which I analyzed to provide insights into sales trends and customer behavior.
+This dataset contains 9,994 rows of sales data, which I analyzed to provide insights into sales trends and customer behavior.
 
 # Key Metrics:
 - Count of Sales: Total number of sales transactions
