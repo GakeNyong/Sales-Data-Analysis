@@ -67,6 +67,5 @@ The Google Sheet contains 3 sheets:
 3. Sales Dashboard: Visual representation of sales trends and insights
 
 # Dataset:
-The dataset is available in the Google Sheet linked below:
 [View Sales Data Analysis Google Sheet](https://docs.google.com/spreadsheets/d/1t80YorV5pQ2SVbxd7PHp0mzF35IrU4ANivqy3T_NO7w/edit?usp=sharing)
 
